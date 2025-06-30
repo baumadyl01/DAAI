@@ -7,6 +7,7 @@ dependencies:
   - bokeh
   - jupyterlab
   - pandas
+  - python=3.10
   - python
   - scikit-learn
   - scikit-plot
